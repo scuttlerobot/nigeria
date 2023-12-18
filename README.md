@@ -10,6 +10,8 @@ Updates for Robotics in Nigeria.  Who is involved? What are we doing?  What do w
 | [Website](https://qr.page/g/leQK0r6g6q ':class=button')
 | [Change Log](https://github.com/scuttlerobot/nigeria/commits/main ':class=button') |
 
+_qr code is accessible at https://qr.page/g/leQK0r6g6q_
+
 
 # Leadership
 
