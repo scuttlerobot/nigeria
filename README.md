@@ -43,7 +43,9 @@ Let's aim for quarterly updates in this section - what changes took place in the
 
 ## Q3 2023
 
-A placeholder for updates here.
+Profiling of Nigerian robotics education began.
+More than 20 interveiws conducted.
+
 
 ## Q2 2023
 
