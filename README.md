@@ -52,6 +52,18 @@ More than 20 interveiws conducted.
 ## Q2 2023
 
 A placeholder for updates here.
+
+## Model Course Curriculum
+
+_data from TAMU course implementation_
+
+* self-evaluation for incoming students, spring 2019 [Experience_Survey.xlsx](https://lobfile.com/file/BrB8.xlsx)
+* Engineering skillsets for robotics outcomes, 2022 [Robotics_Engineering_Skillsets.xlsx](https://lobfile.com/file/ebMc.xlsx)
+* Course Schedule for Labs, 2019 [Mobile_Robotics_Lab_Outline.xlsx](https://lobfile.com/file/CLqo.xlsx)
+
+**Sample image from "engineeering skillsets" worksheet**
+![skillsets_graph](https://i.imgur.com/YwrqDM9.jpeg 'class=img-25') 
+
  
 # References:
 
