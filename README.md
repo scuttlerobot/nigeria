@@ -1,7 +1,7 @@
 # SCUTTLE Nigeria
 Updates for Robotics in Nigeria.  Who is involved? What are we doing?  What do we need help with?  What is driving our plans?
 
-![banner image](image/banner.jpg ':class=banner-image')
+![banner image](img/sNLogo.png':class=banner-image')
 
 **| REALTIME UPDATES | COLLABORATION | NEEDS | RESOURCES | PLANNING |**
 
