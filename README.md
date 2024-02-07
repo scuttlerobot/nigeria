@@ -40,9 +40,8 @@ This table to be populated with key contacts globally who are supporting the pro
 > 1) students with existing STEM background
 > 2) an economy pursuing automation and tech advancements
 > 3) faculty & colleges actively teaching with hands-on projects.
-> Our efforts are most successful in teach-the-teacher interactions.
 >
->Sharing our free & open technology is done organically with human interactions, and is almost never successful through traditional marketing. The robot design is affordable & accessible, but the curriculum must be adapted to meet students at their level.  So, the path to success is to connect with one leader at a time and let them inform the process based on their group's expertise areas, equipment, infrastructure, and motivations. Robotics, just like Personal Computers in 1990, can benefit all types of learners and it starts with adapting the experience for the student.  We can only achieve this adapting and teaching with the help of a local champion.  All of our dreams of building the future begin with a few bold people, in one geographic hub at a time.
+> Our efforts are most successful in teach-the-teacher interactions. Sharing our free & open technology is done organically with human interactions, and is almost never successful through traditional marketing. The robot design is affordable & accessible, but the curriculum must be adapted to meet students at their level.  So, the path to success is to connect with one leader at a time and let them inform the process based on their group's expertise areas, equipment, infrastructure, and motivations. Robotics, just like Personal Computers in 1990, can benefit all types of learners and it starts with adapting the experience for the student.  We can only achieve this adapting and teaching with the help of a local champion.  All of our dreams of building the future begin with a few bold people, in one geographic hub at a time.
 
 # Planning
 
@@ -82,5 +81,6 @@ _key sources for background information_
 
 ## Internal References
 _links and summarized info for onboarding new team members and for recalling data in more detail._
-
+* [SCUTTLE Tech Guide](https://qr.scuttlerobot.org/g/12J5i2t3bp4) - our SCUTTLE engineering guide, beginning 2023 and publicly edited.
+* [SCUTTLE Homepage](https://scuttlerobot.org) - the SCUTTLE website
 
