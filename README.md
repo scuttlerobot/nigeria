@@ -76,6 +76,7 @@ _data from TAMU course implementation_
 ## External References
 _key sources for background information_
 * [Federal University of Technology - Owerri](https://futo.edu.ng/department-of-mechatronic-engineering/) - FUTO has a mechatronics department with capable students & researchers.
+ * [Dr. Nzebuka at FUTO](https://futo.edu.ng/engr-dr-g-c-nzebuka/) - link to faculty profile for Dr. Nzebuka
 * [Covenant University](https://covenantuniversity.edu.ng/) - Covenant is a national leader in education, a private university with a strong and stable reputation.
 
 
