@@ -32,11 +32,14 @@ This table to be populated with key contacts globally who are supporting the pro
 
 > In the above table let's add the Github usernames to connect our realtime updates with the authors behind them. -DM
 
-## In-country
+## Introduction
 
-This section discusses background information for in-country aspects of the project.  Several actions and communications can be produced anywhere in the world to support this project but for those requiring local action, we will describe it in this section.
-
-Let's not make it redundant but rather frame the information here around the actions required to make progress onsite and refer to the "global team members" section above as needed.
+> Why Nigeria? (by David): Our SCUTTLE goals are centered on making the biggest impact, achieving a sustainable ecosystem for STEM learners to help each other, and making tech skills available to everyone.  I see the continent of Africa as the next step to enabling the global community of makers to find help in every time zone around the globe.  My experience in Southeast Asia taught me that students in developing regions are an incredible force in forging new technology.  By late 2023, our Malaysian research teams have outpaced our counterparts in Texas where the designers have more credentials, more funding, bigger campuses and more tools. It's exactly the opposite of what I expected. Perhaps the passion and motivation is the biggest barrier and perhaps the phenomenon of being a little fish in a big pond is an intense drawback for the students in major universities.
+> In 2022 I met Dr. Nzebuka, a professor in Nigeria and a visiting researcher at Texas A&M.  By his account, his students back at FUTO are eager to explore robotics but need some simple guidance on where to start. FUTO and Covenant university are universities positioned near the economic focal point in Nigeria, a city called Lagos which hosts manufacturing, oil & gas, and employers of STEM graduates.  So the key ingredients which drove a successful start in Malaysia are also ready in Nigeria:
+> 1) students with existing STEM background
+> 2) an economy pursuing automation and tech advancements
+> 3) faculty & colleges actively teaching with hands-on projects.
+> Our efforts are most successful in teach-the-teacher interactions.  Sharing our free & open technology is done organically with human interactions, and is almost never successful through traditional marketing. The robot design is affordable & accessible, but the curriculum must be adapted to meet students at their level.  So, the path to success is to connect with one leader at a time and let them inform the process based on their group's expertise areas, equipment, infrastructure, and motivations. Robotics, just like Personal Computers in 1990, can benefit all types of learners and it starts with adapting the experience for the student.  We can only achieve this adapting and teaching with the help of a local champion.  All of our dreams of building the future begin with a few bold people, in one geographic hub at a time.
 
 # Planning
 
@@ -62,16 +65,18 @@ _data from TAMU course implementation_
 * Course Schedule for Labs, 2019 [Mobile_Robotics_Lab_Outline.xlsx](https://lobfile.com/file/CLqo.xlsx)
 
 **Sample image from "engineeering skillsets" worksheet**
-![skillsets_graph](https://i.imgur.com/YwrqDM9.jpeg 'class=img-25') 
+![skillsets_graph](https://i.imgur.com/YwrqDM9.jpeg 'class=img-40') 
 
  
 # References:
 
-## External Ref
+## External References
+_key sources for background information_
+* [Federal University of Technology - Owerri](https://futo.edu.ng/department-of-mechatronic-engineering/) - FUTO has a mechatronics department with capable students & researchers.
+* [Covenant University] - Covenant is a national leader in education, a private university with a strong and stable reputation.
 
-* key sources for data collection and resources from which we make our plans.
 
-## Internal Ref
+## Internal References
+_links and summarized info for onboarding new team members and for recalling data in more detail._
 
-* links and summarized info for onboarding new team members and for recalling data in more detail.
 
