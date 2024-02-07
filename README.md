@@ -23,13 +23,12 @@ Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can y
 
 This table to be populated with key contacts globally who are supporting the project, starting in 2022.
 
-| Person | Involvement |
-| ------ | ----------------- |
-| Dr. Nzebuka    | Key person in FUTO in Nigeria |
-| Dr. Olalekan   | Responsibilities in USA and Nigeria |
-| Philliip McGee | Leading the planning for SCUTTLE Nigeria within the technical team in Texas |
-| David Malawey  | Operating in Texas, supporting as needed, providing info from Malaysian Implementation |
-| Next person    | let's populate this further |
+| Person | Contact | Involvement |
+| ------ | ------- | ----------------- |
+| Dr. Nzebuka    | | Key person in FUTO in Nigeria |
+| Dr. Olalekan   | | Responsibilities in USA and Nigeria |
+| Philliip McGee | phill@scuttlerobot.org | Leading the planning for SCUTTLE Nigeria within the technical team in Texas |
+| David Malawey  | david@scuttlerobot.org | Operating in Texas, supporting as needed, providing info from Malaysian Implementation |
 
 > In the above table let's add the Github usernames to connect our realtime updates with the authors behind them. -DM
 
