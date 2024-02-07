@@ -1,4 +1,5 @@
 ![banner image](img/banner_v2.jpg ':class=banner-image')
+_qr code is accessible at https://qr.page/g/leQK0r6g6q_
 
 # SCUTTLE Nigeria
 Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
@@ -10,7 +11,7 @@ Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can y
 | [Website](https://qr.page/g/leQK0r6g6q ':class=button')
 | [Change Log](https://github.com/scuttlerobot/nigeria/commits/main ':class=button') |
 
-_qr code is accessible at https://qr.page/g/leQK0r6g6q_
+
 
 
 # Leadership
@@ -47,6 +48,12 @@ This table to be populated with key contacts globally who are supporting the pro
 
 Let's aim for quarterly updates in this section - what changes took place in the previous quarter and what anticipated changes are planned for the next quarter
 
+## Q1 2024
+Still waiting on team updates!
+* DM produced a fun video about [robotic reforestation in Africa's Desserts!](https://youtube.com/shorts/C6ZuMiv2xMo?feature=share)
+
+## Q4 2023
+Waiting on team's updates!
 
 ## Q3 2023
 
