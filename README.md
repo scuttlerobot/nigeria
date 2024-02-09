@@ -25,7 +25,7 @@ This table to be populated with key contacts globally who are supporting the pro
 
 | Person | Contact | Involvement |
 | ------ | ------- | ----------------- |
-| Dr. Nzebuka    | | Key person in FUTO in Nigeria |
+| Dr. Nzebuka    | @nzebuka2013| Key person in FUTO in Nigeria |
 | Dr. Olalekan   | | Responsibilities in USA and Nigeria |
 | Philliip McGee | phill@scuttlerobot.org | Leading the planning for SCUTTLE Nigeria within the technical team in Texas |
 | David Malawey  | david@scuttlerobot.org | Operating in Texas, supporting as needed, providing info from Malaysian Implementation |
