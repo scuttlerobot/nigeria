@@ -26,7 +26,7 @@ This table to be populated with key contacts globally who are supporting the pro
 | Person | Contact | Involvement |
 | ------ | ------- | ----------------- |
 | Dr. Nzebuka    |nzebuka2013| Key person in FUTO in Nigeria |
-| Dr. Olalekan   | | Responsibilities in USA and Nigeria |
+| Dr. Olalekan   | | Responsibilities in USA and Nigeria. The SCUTTLE Nigeria project will be initiated in certain tertiary institutions in Nigeria, one of which is Covenant University and I will be playing a key role in setting up stakeholders in the academic space (that includes Students, Professors, lecturers, and university management) to embrace the learning opportunities in the field of robotics that will be provided by SCUTTLE |
 | Philliip McGee | phill@scuttlerobot.org | Leading the planning for SCUTTLE Nigeria within the technical team in Texas |
 | David Malawey  | david@scuttlerobot.org | Operating in Texas, supporting as needed, providing info from Malaysian Implementation |
 
