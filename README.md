@@ -50,6 +50,7 @@ Let's aim for quarterly updates in this section - what changes took place in the
 ## Q1 2024
 Still waiting on team updates!
 * DM produced a fun video about [robotic reforestation in Africa's Desserts!](https://youtube.com/shorts/C6ZuMiv2xMo?feature=share)
+* Meeting with Enactus to form next steps to engage young students with a competition program. [view meeting on youtube](https://youtu.be/S6f09kF4teU)
 
 ## Q4 2023
 Waiting on team's updates!
