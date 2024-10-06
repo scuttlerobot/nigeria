@@ -1,1 +1,5 @@
-
+- [Home](home)
+- [Updates](updates)
+- [Goals](goals)
+- [Downloads](downloads)
+- [Research](research)
