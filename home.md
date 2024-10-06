@@ -52,7 +52,7 @@ In 2023, Phillip also visited Texas and I worked with him to share what challeng
 
 | Images | ... |
 | ---------- | ------------------- | 
-| ![nzebuka1](img/img_nzebuka_2021.jpg) | ![FUTO building](img/img_FUTO_entrance.jpg) |
+| ![nzebuka1](img/img_nzebuka_2021.jpg) | ![FUTO building](img/img_futo_entrance.jpg) |
 | Dr. Nzebuka building robots in Texas    | FUTO campus  |
 
 
