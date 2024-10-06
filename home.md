@@ -14,15 +14,18 @@ The lab is being assembled!  FUTO faculty have allocated a space for teaching ro
 
 This table to be populated with key contacts globally who are supporting the project, starting in 2022.
 
-| Person | Contact | Involvement |
-| ------ | ------- | ----------------- |
-| Dr. Nzebuka    |nzebuka2013| Key person in FUTO in Nigeria |
-| Dr. Olalekan   | | Responsibilities in USA and Nigeria. The SCUTTLE Nigeria project will be initiated in certain tertiary institutions in Nigeria, one of which is Covenant University and I will be playing a key role in setting up stakeholders in the academic space (that includes Students, Professors, lecturers, and university management) to embrace the learning opportunities in the field of robotics that will be provided by SCUTTLE |
+* Dr. Gaius Nzebuka is the key responsible person for the 2024 robotics lab supported by SCUTTLE Robotics organization.  He has direct experience with our Texas learning environment based on his work at Texas A&M, and a mechanical engineering educational background. 
+* Dr. Olalekan Olayinka is our primary contact at Covenant University, also near to Lagos, Nigeria and a key consultant for our planning in African robotics efforts.  Dr. Olalekan is equipped to set up stakeholders in the academic space (that includes Students, Professors, lecturers, and university management) to embrace the learning opportunities in the field of robotics that will be provided by SCUTTLE.
+* Several faculty members at FUTO are colleagues of Dr. Nzebuka who will likely get involved at the new lab there, and I hope to credit them as the year progresses and we can know more details.
 
 ## North America
 
-| Philliip McGee | phill@scuttlerobot.org | Leading the planning for SCUTTLE Nigeria within the technical team in Texas |
-| David Malawey  | david@scuttlerobot.org | Operating in Texas, supporting as needed, providing info from Malaysian Implementation |
+* Philliip McGee is our spearhead for planning the Africa-based activities for the SCUTTLE org since around 2023.
+* David Malawey is dedicating technical efforts, and documenting content to share (such as this web page) to keep the door open for collaborators.
+* Viam is an exciting business partner who has created several software solutions & easy-to-follow tutorials and we are keeping their team up to speed to engage with the Nigeria group whenever appropriate.  A couple of their staff including Sara Gharnit and Nick Hehr have already performed live webinars for our Malaysia based workshops (THANK YOU SO MUCH!) and we hope to connect them again to kick off viam-on-scuttle software lessons soon.
+
+## Asia
+* Dr. Norazmi, as always, has been a guiding participant in the Africa plans as his education/business/government experience is a fantastic resource to choose how to make similar progress in Nigeria as we have in Malaysia.
 
 
 ## Robotics Education in Nigeria
