@@ -41,7 +41,7 @@ The concept of this first SCUTTLE robot lab in Nigeria originated with Dr. Gaius
 
 | Images | ... |
 | ---------- | ------------------- | 
-| ![buikem](/img/img_buikem_2022.05) | ![dm1](/img/img_david_ufodikeLab_2022.jpg) |
+| ![buikem](img/img_buikem_2022.05) | ![dm1](img/img_david_ufodikeLab_2022.jpg) |
 | Buikem at DMD Lab for grad work     | David gets introduction to DMD Lab, Texas A&M  |
 
 In 2023, Phillip also visited Texas and I worked with him to share what challenges we solved to create an educational lab in Malaysia.  Phil has extensive experience in creating digital educational content as well as overseas philanthropic projects.  We actually knew one another from Missouri Science & Technology (formerly UMR) when both of us worked on the Guatemala water project, circa 2009.  So, in several regards the opportunity was transparent and Phil took on the challenges of researching where and how to plug in the robotics education, starting from the whole continent of Africa. 
