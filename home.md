@@ -1,4 +1,4 @@
-![banner image](img/img_sctl_nigeria_banner ':class=banner-image')
+![banner image](img/img_sctl_nigeria_banner.jpg ':class=banner-image')
 _qr code is accessible at https://qr.page/g/leQK0r6g6q_
 
 # SCUTTLE Nigeria
