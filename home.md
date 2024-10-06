@@ -4,10 +4,11 @@ _qr code is accessible at https://qr.page/g/leQK0r6g6q_
 # SCUTTLE Nigeria
 Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
 
+# Latest
+
+The lab is being assembled!  FUTO faculty have allocated a space for teaching robotics, and our Nigerian team members are installing solar panels, power storage, furniture & security features for the new lab space.  Robot kits have arrived onsite after a very long shipping period and Dr. Nzebuka & his colleagues plan to teach with the equipment this fall semester. 
+
 # Leadership
-
-> **This section introduces key people in the project.**
-
 
 ## Nigeria
 
@@ -45,6 +46,12 @@ The concept of this first SCUTTLE robot lab in Nigeria originated with Dr. Gaius
 | Buikem at DMD Lab for grad work     | David gets introduction to DMD Lab, Texas A&M  |
 
 In 2023, Phillip also visited Texas and I worked with him to share what challenges we solved to create an educational lab in Malaysia.  Phil has extensive experience in creating digital educational content as well as overseas philanthropic projects.  We actually knew one another from Missouri Science & Technology (formerly UMR) when both of us worked on the Guatemala water project, circa 2009.  So, in several regards the opportunity was transparent and Phil took on the challenges of researching where and how to plug in the robotics education, starting from the whole continent of Africa. 
+
+| Images | ... |
+| ---------- | ------------------- | 
+| ![nzebuka1](img/img_nzebuka_2021) | ![FUTO building](img/img_FUTO_building.jpg) |
+| Dr. Nzebuka building robots in Texas    | FUTO campus  |
+
 
 In late 2023 Philip actually built two extensive reports to seek funding from Microsoft and we collaborated on a second grant proposal for a Texas A&M call for proposals. Those got submitted and set on the shelf while Phil continued heavy research.  Phil compiled nearly 50 direct interviews with Nigerian students and Researchers to gather the state of STEM education & robotics.  We did not document things nicely enough to publish because action ramped up before we got there! The situation of robotics in Nigeria is a complex one with a great deal of talent and many barriers to proper resources, but in summary, it advises extreme thoughtfulness about where we can plant a seed - send equipment and collaborate with an educator to offer a tailored curriculum in the context of their university setting.
 
