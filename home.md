@@ -35,9 +35,24 @@ This table to be populated with key contacts globally who are supporting the pro
 >
 > Our efforts are most successful in teach-the-teacher interactions. Sharing our free & open technology is done organically with human interactions, and is almost never successful through traditional marketing. The robot design is affordable & accessible, but the curriculum must be adapted to meet students at their level.  So, the path to success is to connect with one leader at a time and let them inform the process based on their group's expertise areas, equipment, infrastructure, and motivations. Robotics, just like Personal Computers in 1990, can benefit all types of learners and it starts with adapting the experience for the student.  We can only achieve this adapting and teaching with the help of a local champion.  All of our dreams of building the future begin with a few bold people, in one geographic hub at a time.
 
-# Planning
+# Starting in 2022
 
-Let's aim for quarterly updates in this section - what changes took place in the previous quarter and what anticipated changes are planned for the next quarter
+The concept of this first SCUTTLE robot lab in Nigeria originated with Dr. Gaius Nzebuka.  Dr. Nzebuka spent a period in 2022 as a research scholar at Texas A&M where the first discussions began.  Nzebuka worked in the lab of our new faculty, Dr. Ufodike and interacted with our former SCUTTLE team member Chukwubuikem Ewelike, who introduced myself and Dr. Nzebuka.  One saturday, I hosted everybody at the garage-based lab and we took a day to build some SCUTTLE kits and get introduced to what's involved.
+
+| Images | ... |
+| ---------- | ------------------- | 
+| ![buikem](/img/img_buikem_2022.05) | ![dm1](/img/img_david_ufodikeLab_2022.jpg) |
+| Buikem at DMD Lab for grad work     | David gets introduction to DMD Lab, Texas A&M  |
+
+In 2023, Phillip also visited Texas and I worked with him to share what challenges we solved to create an educational lab in Malaysia.  Phil has extensive experience in creating digital educational content as well as overseas philanthropic projects.  We actually knew one another from Missouri Science & Technology (formerly UMR) when both of us worked on the Guatemala water project, circa 2009.  So, in several regards the opportunity was transparent and Phil took on the challenges of researching where and how to plug in the robotics education, starting from the whole continent of Africa. 
+
+In late 2023 Philip actually built two extensive reports to seek funding from Microsoft and we collaborated on a second grant proposal for a Texas A&M call for proposals. Those got submitted and set on the shelf while Phil continued heavy research.  Phil compiled nearly 50 direct interviews with Nigerian students and Researchers to gather the state of STEM education & robotics.  We did not document things nicely enough to publish because action ramped up before we got there! The situation of robotics in Nigeria is a complex one with a great deal of talent and many barriers to proper resources, but in summary, it advises extreme thoughtfulness about where we can plant a seed - send equipment and collaborate with an educator to offer a tailored curriculum in the context of their university setting.
+
+In the same year, Dr. Nzebuka returned to Nigeria and returned to a full-time faculty member at Federal University of Technology, Owerri (FUTO).  It is possibly the most highly regarded state university in Nigeria for STEM training.  We also looked closely at Covenant university which is a privately funded uni, and it is also a leader which we hope to connect with.  Making efforts in FUTO agreed nicely with Phil's independent research on the best places to start. 
+
+
+
+
 
 ## Q1 2024
 Still waiting on team updates!
