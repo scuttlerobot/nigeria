@@ -1,4 +1,3 @@
 - [Home](home.md)
 - [FUTO](https://futo.edu.ng/)
 - [Github Repository](https://github.com/scuttlerobot/nigeria)
-- [Change Log](https://github.com/scuttlerobot/nigeria/commits/main)
