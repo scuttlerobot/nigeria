@@ -66,8 +66,8 @@ Our north american team shipped the first parts to FUTO!  This was a big milesto
 
 | Images | ... |
 | ---------- | ------------------- | 
-| Images on the way | abc |
-| image description    | image description  |
+| ![kit prep](img/img_kitBuilding.jpg) | ![office work](img/img_phil_david_office_2023.02.jgp) |
+| preparing kits & tools for Nigeria shipment  | working in the office  |
 
 
 # References:
