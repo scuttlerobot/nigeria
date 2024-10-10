@@ -4,7 +4,9 @@ _qr code is accessible at https://qr.page/g/leQK0r6g6q_
 # SCUTTLE Nigeria
 Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
 
-![dr nzebuka at scuttle texas](img/img_nzebuka2022.jpg ':class=image-25')
+| Dr. Nzebuka from FUTO | Fun infographic |
+| --- | --- |
+| ![dr nzebuka at scuttle texas](img/img_nzebuka_2021.2.jpg) | ![infographic](img/img_infographic2.jpg) |
 
 # Latest
 
