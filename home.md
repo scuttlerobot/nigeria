@@ -4,6 +4,8 @@ _qr code is accessible at https://qr.page/g/leQK0r6g6q_
 # SCUTTLE Nigeria
 Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
 
+![dr nzebuka at scuttle texas](img/img_nzebuka2022.jpg ':class=image-25')
+
 # Latest
 
 The lab is being assembled!  FUTO faculty have allocated a space for teaching robotics, and our Nigerian team members are installing solar panels, power storage, furniture & security features for the new lab space.  Robot kits have arrived onsite after a very long shipping period and Dr. Nzebuka & his colleagues plan to teach with the equipment this fall semester. 
