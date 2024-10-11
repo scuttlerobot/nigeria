@@ -4,9 +4,17 @@ _qr code is accessible at https://qr.page/g/leQK0r6g6q_
 # SCUTTLE Nigeria
 Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
 
-| Dr. Nzebuka from FUTO | Fun infographic |
-| --- | --- |
-| ![dr nzebuka at scuttle texas](img/img_nzebuka_2021.2.jpg) | ![infographic](img/img_infographic2.jpg) |
+
+ ![infographic](img/img_infographic2.jpg)
+ _Themes for 2024 in one infographic_
+
+ The basic idea is to build the supporting infrastructure for Nigerian students to learn & create with robotics.
+
+
+![dr nzebuka at scuttle texas](img/img_nzebuka_2021.2.jpg)
+_Dr. Nzebuka visits SCUTTLE Texas in 2022_
+
+In one of our earliest meetings, Dr. Gaius Nzebuka (center of photo) urged us to assist him in bringing this tech to his home university in Owerri.
 
 # Latest
 
