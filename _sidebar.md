@@ -1,5 +1,5 @@
 - [Home](home)
-- [Updates](updates)
+- [Community](community)
 - [Goals](goals)
 - [Downloads](downloads)
 - [Research](research)
