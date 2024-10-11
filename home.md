@@ -40,7 +40,7 @@ This table to be populated with key contacts globally who are supporting the pro
 * Dr. Norazmi, as always, has been a guiding participant in the Africa plans as his education/business/government experience is a fantastic resource to choose how to make similar progress in Nigeria as we have in Malaysia.
 
 
-## Robotics Education in Nigeria
+## Nigeria Outlook
 
 > Why Nigeria? (by David): Our SCUTTLE goals are centered on making the biggest impact, achieving a sustainable ecosystem for STEM learners to help each other, and making tech skills available to everyone.  I see the continent of Africa as the next step to enabling the global community of makers to find help in every time zone around the globe.  My experience in Southeast Asia taught me that students in developing regions are an incredible force in forging new technology.  By late 2023, our Malaysian research teams have outpaced our counterparts in Texas where the designers have more credentials, more funding, bigger campuses and more tools. It's exactly the opposite of what I expected. Perhaps the passion and motivation is the biggest barrier and perhaps the phenomenon of being a little fish in a big pond is an intense drawback for the students in major universities.
 >
@@ -51,22 +51,26 @@ This table to be populated with key contacts globally who are supporting the pro
 >
 > Our efforts are most successful in teach-the-teacher interactions. Sharing our free & open technology is done organically with human interactions, and is almost never successful through traditional marketing. The robot design is affordable & accessible, but the curriculum must be adapted to meet students at their level.  So, the path to success is to connect with one leader at a time and let them inform the process based on their group's expertise areas, equipment, infrastructure, and motivations. Robotics, just like Personal Computers in 1990, can benefit all types of learners and it starts with adapting the experience for the student.  We can only achieve this adapting and teaching with the help of a local champion.  All of our dreams of building the future begin with a few bold people, in one geographic hub at a time.
 
-## Starting in 2022
+## 2022, starting
 
 The concept of this first SCUTTLE robot lab in Nigeria originated with Dr. Gaius Nzebuka.  Dr. Nzebuka spent a period in 2022 as a research scholar at Texas A&M where the first discussions began.  Nzebuka worked in the lab of our new faculty, Dr. Ufodike and interacted with our former SCUTTLE team member Chukwubuikem Ewelike, who introduced myself and Dr. Nzebuka.  One saturday, I hosted everybody at the garage-based lab and we took a day to build some SCUTTLE kits and get introduced to what's involved.
 
-| Images | ... |
-| ---------- | ------------------- | 
-| ![buikem](img/img_buikem_2022.05.jpg) | ![dm1](img/img_david_ufodikeLab_2022.jpg) |
-| Buikem at DMD Lab for grad work     | David gets introduction to DMD Lab, Texas A&M  |
+
+![buikem](img/img_buikem_2022.05.jpg) 
+_Buikem, our Nigerian American colleague at DMD Lab for his grad studies._   
+
+![dm1](img/img_david_ufodikeLab_2022.jpg)
+_David gets an introduction to the DMD Lab of Dr. Ufodike, at Texas A&M_
 
 In 2023, Phillip also visited Texas and I worked with him to share what challenges we solved to create an educational lab in Malaysia.  Phil has extensive experience in creating digital educational content as well as overseas philanthropic projects.  We actually knew one another from Missouri Science & Technology (formerly UMR) when both of us worked on the Guatemala water project, circa 2009.  So, in several regards the opportunity was transparent and Phil took on the challenges of researching where and how to plug in the robotics education, starting from the whole continent of Africa. 
 
-| Images | ... |
-| ---------- | ------------------- | 
-| ![nzebuka1](img/img_nzebuka_2021.jpg) | ![FUTO building](img/img_futo_entrance.jpg) |
-| Dr. Nzebuka building robots in Texas    | FUTO campus  |
 
+![nzebuka1](img/img_nzebuka_2021.jpg) 
+_Dr. Nzebuka building robots in Texas_    
+
+
+![FUTO building](img/img_futo_entrance.jpg)
+_FUTO campus_
 
 In late 2023 Philip actually built two extensive reports to seek funding from Microsoft and we collaborated on a second grant proposal for a Texas A&M call for proposals. Those got submitted and set on the shelf while Phil continued heavy research.  Phil compiled nearly 50 direct interviews with Nigerian students and Researchers to gather the state of STEM education & robotics.  We did not document things nicely enough to publish because action ramped up before we got there! The situation of robotics in Nigeria is a complex one with a great deal of talent and many barriers to proper resources, but in summary, it advises extreme thoughtfulness about where we can plant a seed - send equipment and collaborate with an educator to offer a tailored curriculum in the context of their university setting.
 
@@ -76,10 +80,12 @@ In the same year, Dr. Nzebuka returned to Nigeria and returned to a full-time fa
 
 Our north american team shipped the first parts to FUTO!  This was a big milestone in funding, shipping parts to a new continent, and readiness to make huge changes on the side of Dr. Nzebuka's team.  We can't express how grateful we are to have a welcoming and trusting group on the Nigeria side of the project to allocate space and time from many people to "break ground."  The infrastructure, security, and coordination has much to speak of with this kind of project - we, as an open-source organization, do not have authority over any decisions at this public university and it is not so much "our project" as a project we are working to support.  So, big thanks to everyone involved as we can soon come to the actual robotics part of the journey.
 
-| Images | ... |
-| ---------- | ------------------- | 
-| ![kit prep](img/img_kitBuilding.jpg) | ![office work](img/img_phil_david_office_2023.02.jpg) |
-| preparing kits & tools for Nigeria shipment  | working in the office  |
+![kit prep](img/img_kitBuilding.jpg)
+_Preparing kits & tools for Nigeria shipment_
+
+
+![office work](img/img_phil_david_office_2023.02.jpg)
+_David & Phil working in the office_
 
 
 # References:
