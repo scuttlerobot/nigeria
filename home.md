@@ -51,7 +51,7 @@ This table to be populated with key contacts globally who are supporting the pro
 >
 > Our efforts are most successful in teach-the-teacher interactions. Sharing our free & open technology is done organically with human interactions, and is almost never successful through traditional marketing. The robot design is affordable & accessible, but the curriculum must be adapted to meet students at their level.  So, the path to success is to connect with one leader at a time and let them inform the process based on their group's expertise areas, equipment, infrastructure, and motivations. Robotics, just like Personal Computers in 1990, can benefit all types of learners and it starts with adapting the experience for the student.  We can only achieve this adapting and teaching with the help of a local champion.  All of our dreams of building the future begin with a few bold people, in one geographic hub at a time.
 
-## 2022, starting
+## 2022, Starting Out
 
 The concept of this first SCUTTLE robot lab in Nigeria originated with Dr. Gaius Nzebuka.  Dr. Nzebuka spent a period in 2022 as a research scholar at Texas A&M where the first discussions began.  Nzebuka worked in the lab of our new faculty, Dr. Ufodike and interacted with our former SCUTTLE team member Chukwubuikem Ewelike, who introduced myself and Dr. Nzebuka.  One saturday, I hosted everybody at the garage-based lab and we took a day to build some SCUTTLE kits and get introduced to what's involved.
 
@@ -76,7 +76,7 @@ In late 2023 Philip actually built two extensive reports to seek funding from Mi
 
 In the same year, Dr. Nzebuka returned to Nigeria and returned to a full-time faculty member at Federal University of Technology, Owerri (FUTO).  It is possibly the most highly regarded state university in Nigeria for STEM training.  We also looked closely at Covenant university which is a privately funded uni, and it is also a leader which we hope to connect with.  Making efforts in FUTO agreed nicely with Phil's independent research on the best places to start. 
 
-## Ramping up in 2024
+## 2024, Ramping Up
 
 Our north american team shipped the first parts to FUTO!  This was a big milestone in funding, shipping parts to a new continent, and readiness to make huge changes on the side of Dr. Nzebuka's team.  We can't express how grateful we are to have a welcoming and trusting group on the Nigeria side of the project to allocate space and time from many people to "break ground."  The infrastructure, security, and coordination has much to speak of with this kind of project - we, as an open-source organization, do not have authority over any decisions at this public university and it is not so much "our project" as a project we are working to support.  So, big thanks to everyone involved as we can soon come to the actual robotics part of the journey.
 
@@ -90,14 +90,14 @@ _David & Phil working in the office_
 
 # References:
 
-## External References
+## External
 _key sources for background information_
 * [Federal University of Technology - Owerri](https://futo.edu.ng/department-of-mechatronic-engineering/) - FUTO has a mechatronics department with capable students & researchers.
  * [Dr. Nzebuka at FUTO](https://futo.edu.ng/engr-dr-g-c-nzebuka/) - link to faculty profile for Dr. Nzebuka
 * [Covenant University](https://covenantuniversity.edu.ng/) - Covenant is a national leader in education, a private university with a strong and stable reputation.
 
 
-## Internal References
+## Internal
 _links and summarized info for onboarding new team members and for recalling data in more detail._
 * [SCUTTLE Tech Guide](https://qr.scuttlerobot.org/g/12J5i2t3bp4) - our SCUTTLE engineering guide, beginning 2023 and publicly edited.
 * [SCUTTLE Homepage](https://scuttlerobot.org) - the SCUTTLE website
