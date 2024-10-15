@@ -87,6 +87,10 @@ _Preparing kits & tools for Nigeria shipment_
 ![office work](img/img_phil_david_office_2023.02.jpg)
 _David & Phil working in the office_
 
+Such a perfect coincidence arrived in October! Samuel, shown below is a mechanical engineer from Nigeria who I met in a book club (totally unrelated to SCUTTLE). As it turned out, he studied at FUTO for his undergrad and has great insights to share with me since I've not yet traveled to Nigeria.  We had a short discussion for Q&A from my many questions about his experience and their university and it's going to fill gaps in our USA team awareness.   Samuel doesn't know yet but we are going to make him an advisor to the project. ☺
+
+![samuel and david](img/2024_samuel.jpg)
+_David & Samuel meeting in Texas with Photo credit to the Astro Robot_
 
 # References:
 
