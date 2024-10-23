@@ -38,6 +38,10 @@ This table to be populated with key contacts globally who are supporting the pro
 
 ## Asia
 * Dr. Norazmi, as always, has been a guiding participant in the Africa plans as his education/business/government experience is a fantastic resource to choose how to make similar progress in Nigeria as we have in Malaysia.
+  
+![img_norazmi2](https://github.com/user-attachments/assets/a12f4ab3-ebc5-41e1-898c-b6a5aeb71994)
+_Dr. Norazmi (left) leading SCUTTLE Asia with Fadullah & Hakimi_
+
 
 
 ## Nigeria Outlook
