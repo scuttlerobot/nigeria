@@ -1,5 +1,7 @@
 ![banner image](img/img_sctl_nigeria_banner.jpg ':class=banner-image')
-_qr code is accessible at https://qr.page/g/leQK0r6g6q_
+
+_latest dynamic link: https://bit.ly/scuttleNigeria1_
+
 
 # SCUTTLE Nigeria
 Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
