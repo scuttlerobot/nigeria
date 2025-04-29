@@ -20,3 +20,9 @@ _visualizing time zones and overlaps for supporting each other_
 Perspective of USA: as of 2023, we could only collaborate with Asia in the early morning and late evening.  Our 8am is their 8pm.  As soon as we start our real engineering work for the day, they are getting ready for sleep.
 
 Perspective of Nigeria:  In the first half of the day, the students in Lagos can ask questions from all of the Asia community.  In the second half of the day, they can easily reach us in the USA.  For the first time we will have a student laboratory with 24 hours of expert support!
+
+## Curriculum
+
+We can begin with an example curriculum from Texas A&M university, with the mobile robotics course curriculum.  The labs topics, time table, and essential experiential learning outcomes are listed in an outline.
+
+* Download the [Semester Outline](https://github.com/scuttlerobot/nigeria/blob/a4d2c898e4d9804c5fb0ca537d804a1647dccd57/docs/Labs_MobileRoboticsOutline.pdf) for robotics labs.
