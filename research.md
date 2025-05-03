@@ -19,4 +19,10 @@ This segment is for publishing our 2023 proposal to [Microsofts ATO organization
 
 ![preview image for ATO proposal](img/img_microsoftProposal.jpg)
 
+## FUTO
 
+In the early stage of planning efforts in Africa we explored many universities with which to partner.  It was providential to connect in person at Texas A&M with Dr. Gaius Nzebuka which led us to pursue our work with FUTO specifically.  Here's our initial letter of collaboration with SCUTTLE organization and Federal University of Technology Owerri.
+
+* Download [2023.02_collaborationFUTO.pdf](https://github.com/user-attachments/files/20019680/2023.02_collaborationFUTO.pdf)
+
+![preview image for futo collaboration letter](img/img_memoFUTO.jpg)
