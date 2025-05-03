@@ -16,6 +16,12 @@ From the beginning, our priority is the success of the student in learning.  If 
 
 Since the whole project is open source, any individual may take initiative to use the designs & content to create new outcomes in their place of study & work.  So, our goals within the SCUTTLE Organization must be focused on supporting rather than controlling that which is made from the seed projects.
 
+### Growth
+
+As of 2025 we have a nearly complete lab with essentials to grow.  It's a minimal viable set of tools, methods, experts, and space to expand each time that new resources arrive.  If our growth in Nigeria matches the story of our Malaysia-based lab, the results will be more than we can imagine.  See the photo below for a glimpse of the growth of our SCUTTLE-Asia lab from late 2020 to late 2024.  As of early 2025, we have our robots & curriculum in over 14 universities across the whole geographic Malaysia, and we have independently-made robotics inventions in the hands of hundreds of students, researchers, and guiding professors.
+
+![growth of scuttle asia lab](img/img_inspiration.jpg)
+
 ## Connecting
 Connecting our learners & researchers is a central goal, always.  We want to make sure that experience can be exchanged between Asia, Africa, and the Americas.  This triad is a perfect starting point to cover all of the world's time zones.  Learners naturally exchange questions on Discord and post their projects on Youtube, Github, and other hubs for documentation.   But, realtime exchange has a tenfold impact.  
 
