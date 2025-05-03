@@ -3,9 +3,16 @@
 _latest dynamic link: https://qr.net/scuttleafrica (2025.05.02)_
 
 
-# SCUTTLE Nigeria
-Updates for Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
+# Intro
+SCUTTLE Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
 
+>
+> Join our [DISCORD](discord.gg/Napn9mhd43)
+>
+> to chat in realtime with our open community.
+>
+>🙂
+>
 
  ![infographic](img/img_infographic2.jpg)
  _Themes for 2024 in one infographic_
