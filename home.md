@@ -1,6 +1,6 @@
 ![banner image](img/img_sctl_nigeria_banner.jpg ':class=banner-image')
 
-_latest dynamic link: https://qr.net/scuttleafrica_
+_latest dynamic link: https://qr.net/scuttleafrica (2025.05.02)_
 
 
 # SCUTTLE Nigeria
