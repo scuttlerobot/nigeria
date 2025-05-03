@@ -26,3 +26,11 @@ In the early stage of planning efforts in Africa we explored many universities w
 * Download [2023.02_collaborationFUTO.pdf](https://github.com/user-attachments/files/20019680/2023.02_collaborationFUTO.pdf)
 
 ![preview image for futo collaboration letter](img/img_memoFUTO.jpg)
+
+## Dedication
+_on dedication and service to humanity_
+
+I am sharing just a couple of images to share the immensely humble and passionate help our community received from Phillip.  He is the quiet type of genius thinker who is happy to sweat and grind over long periods to see good things happen for people in need.  I met Phil only by chance as he stumbled into the same service organization as myself in Rolla, Missouri around 2010.  We met during travel to this remote village in Guatemala at the peak of a mountain overlooking a lake, where kids in the poorest of conditions attended a school that was undermaintained.  We were only acquaintences when I graduated college in 2011 and over a decade had passed when I stumbled into him on linkedin.  As I told him about the SCUTTLE project he was thrilled to make a trip to Texas on his own funds to learn more and help us reach our first results in Nigeria.  Up until 2025 we both have put in all of our hours for the SCUTTLE organization unpaid, because we are operating out of purpose but I must admit on any given day I have much more to gain as the founder than he does at this very moment.  The second photo is just snipped out of one of our presentations compiled with Phil's photo included, and seeing these photos next to one another is just amazing to me.  I had no idea we would cross paths again in life, and once again to impact the world.
+
+- ![philip service in guatemala](img/img_philService.jpg)
+- ![philip team image](img/img_philTeam.jpg)
