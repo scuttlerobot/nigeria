@@ -14,7 +14,7 @@ SCUTTLE Robotics in Nigeria.  Who is involved? What are we doing?  How can you h
 >🙂
 >
 
- ![infographic](img/img_global1.jpg)
+ ![infographic](img/img_global1.jpeg)
  _Themes for 2024-25 in one infographic_
 
  The basic idea is to build the supporting infrastructure for Nigerian students to learn & create with robotics.
