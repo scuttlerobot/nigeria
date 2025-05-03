@@ -15,6 +15,6 @@ _Note from DM, 2025 April_
 
 This segment is for publishing our 2023 proposal to Microsofts ATO organization.  The Africa Transformation Office offers grants & collaborations for small to medium enterprises (SME's) that develop technology projects.  Phillip studied the ATO goals as well as the background required for a SCUTTLE Robotics Endeavor to align with the ATO grants.   The following is a PDF submitted in 2023 to ATO.  This may be an annual offering that is worth a second attempt.
 
-* Download [2023 Proposal for SCTL Nigeria](insertlinkforreport)
+* Download [2023 Proposal for SCTL Nigeria](https://github.com/scuttlerobot/nigeria/blob/06f4cc12aa1bdf2a74f6e29c409650c3156dba89/docs/2023_proposal_ATO.pdf)
 
 ![preview image for ATO proposal](img/img_microsoftProposal.jpg)
