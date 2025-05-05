@@ -40,7 +40,7 @@ We can begin with an example curriculum from Texas A&M university, with the mobi
 * Download the [Semester Outline](https://github.com/scuttlerobot/nigeria/blob/a4d2c898e4d9804c5fb0ca537d804a1647dccd57/docs/Labs_MobileRoboticsOutline.pdf) for robotics labs.
 * Download [full set of labs 2019](https://github.com/scuttlerobot/nigeria/blob/398324ddbc97b7d754a4277729db96af2c05c0c2/docs/Labs_MobileRobotics_2019.pdf) with all lessons for learning SCUTTLE
 * Download [full set of labs 2021](https://github.com/scuttlerobot/nigeria/blob/0864146cf960a1a3a8bcbc2a3f0262813d4a1af3/docs/Labs_%20MobileRobotics_2021.pdf) with some improvements, but some omissions of important basics.
-* Download [project template 2020](https://github.com/scuttlerobot/nigeria/blob/0864146cf960a1a3a8bcbc2a3f0262813d4a1af3/docs/2020_ProjectExample.pdf) for student projects in undergraduate Mobile Robotics Course.
+* Download [project template 2020](https://github.com/scuttlerobot/nigeria/blob/ba5af9ebdb54ec60f7cc94f3666df36f0129522a/docs/2020_ProjectExample.pdf) for student projects in undergraduate Mobile Robotics Course.
 
 ## 2025_Fundraiser
 
