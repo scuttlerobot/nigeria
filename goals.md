@@ -37,8 +37,8 @@ Perspective of Nigeria:  In the first half of the day, the students in Lagos can
 
 We can begin with an example curriculum from Texas A&M university, with the mobile robotics course curriculum.  The labs topics, time table, and essential experiential learning outcomes are listed in an outline.
 
-* Download the [Semester Outline](https://github.com/scuttlerobot/nigeria/blob/a4d2c898e4d9804c5fb0ca537d804a1647dccd57/docs/Labs_MobileRoboticsOutline.pdf) for robotics labs.
-* Download [full set of labs 2019](https://github.com/scuttlerobot/nigeria/blob/398324ddbc97b7d754a4277729db96af2c05c0c2/docs/Labs_MobileRobotics_2019.pdf) with all lessons for learning SCUTTLE
+* Download the [Semester Outline](https://github.com/scuttlerobot/nigeria/blob/main/docs/Labs_MobileRoboticsOutline.pdf) for robotics labs.
+* Download [full set of labs 2019](https://github.com/scuttlerobot/nigeria/blob/main/docs/Labs_MobileRobotics_2019.pdf) with all lessons for learning SCUTTLE
 * Download [full set of labs 2021](https://github.com/scuttlerobot/nigeria/blob/main/docs/Labs_MobileRobotics_2021.pdf) with some improvements, but some omissions of important basics.
 * Download [project template 2020](https://github.com/scuttlerobot/nigeria/blob/main/docs/2020_ProjectExample.pdf) for student projects in undergraduate Mobile Robotics Course.
 
