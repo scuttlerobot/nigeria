@@ -43,6 +43,11 @@ We can begin with an example curriculum from Texas A&M university, with the mobi
 * Download [project template 2020](https://github.com/scuttlerobot/nigeria/blob/main/docs/2020_ProjectExample.pdf) for student projects in undergraduate Mobile Robotics Course.
 * Download [course prerequisites 2019](https://github.com/scuttlerobot/nigeria/blob/main/docs/2019_coursePrerequisites.pdf) with undergraduate engineering data from TAMU.
 
+The SCUTTLE Robot was designed for experiential learning in the lab, the lab was designed for learning of mechatronics, and mechatronics is designed to give engineers knowledge in mechanical plus electronics engineering.  Some history of the course creation from 2017 through 2019 is included with example data from Texas A&M University in the document linked above, coursePrerequisites.pdf.
+
+![preview of student background](img/img_labPrerequisites.jpg)
+_examples from Texas A&M are offered to support FUTO faculty in developing their course in the SCUTTLE lab in Nigeria._
+
 ## 2025_Fundraiser
 
 In late April 2025, we first involved the broader public with SCUTTLE Nigeria.  David published a video with the latest developments in SCUTTLE Nigeria, and introduced Dr. Owerri to the youtube audience.  Our beloved discord member (alias @nogis) volunteered to lead the fundraiser specifically to target the costs of the filament extruder, the last step for the initial functional lab equipment.  Our discord members were able to connect online with Dr. Nzebuka to get realtime updates on the needs & goals for this season and donations began to come in right away!  Developments & key publications for this activity are still settling as of 2025.05.02.
