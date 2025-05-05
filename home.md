@@ -15,9 +15,9 @@ SCUTTLE Robotics in Nigeria.  Who is involved? What are we doing?  How can you h
 >
 
  ![infographic](img/img_global1.jpeg)
- _Themes for 2024-25 in one infographic_
+ _Global collaboration taking place between SCUTTLE Labs across the world, with Nigeria at the center._
 
- The basic idea is to build the supporting infrastructure for Nigerian students to learn & create with robotics.
+ The basic idea is to build the supporting infrastructure for Nigerian students to learn & create with robotics.  The method is to support each other from within our key SCUTTLE labs in the USA, Malaysia, and Nigeria.
 
 
 ![dr nzebuka at scuttle texas](img/img_nzebuka_2021.2.jpg)
@@ -25,11 +25,6 @@ _Dr. Nzebuka visits SCUTTLE Texas in 2022_
 
 In one of our earliest meetings, Dr. Gaius Nzebuka (center of photo) urged us to assist him in bringing this tech to his home university in Owerri.
 
-# Latest
-
-The lab is being assembled!  FUTO faculty have allocated a space for teaching robotics, and our Nigerian team members are installing solar panels, power storage, furniture & security features for the new lab space.  Robot kits have arrived onsite after a very long shipping period and Dr. Nzebuka & his colleagues plan to teach with the equipment this fall semester. 
-
-# Leadership
 
 ## Nigeria
 
@@ -38,6 +33,14 @@ This table to be populated with key contacts globally who are supporting the pro
 * Dr. Gaius Nzebuka is the key responsible person for the 2024 robotics lab supported by SCUTTLE Robotics organization.  He has direct experience with our Texas learning environment based on his work at Texas A&M, and a mechanical engineering educational background. 
 * Dr. Olalekan Olayinka is our primary contact at Covenant University, also near to Lagos, Nigeria and a key consultant for our planning in African robotics efforts.  Dr. Olalekan is equipped to set up stakeholders in the academic space (that includes Students, Professors, lecturers, and university management) to embrace the learning opportunities in the field of robotics that will be provided by SCUTTLE.
 * Several faculty members at FUTO are colleagues of Dr. Nzebuka who will likely get involved at the new lab there, and I hope to credit them as the year progresses and we can know more details.
+
+>
+> 2025 Spring: The lab is being assembled!  FUTO faculty have allocated a space for teaching robotics, and our Nigerian team members are installing solar panels, power storage, furniture & security features for the new lab space.  Robot kits have arrived onsite after a very long shipping period and Dr. Nzebuka & his colleagues plan to teach with the equipment this fall semester.
+>
+> Visit the self-built webpage by the FUTO team For [SCUTTLE Nigeria](https://scuttle.ng-vercel.app/project)
+>
+
+
 
 ## North America
 
