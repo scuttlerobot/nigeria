@@ -41,6 +41,7 @@ We can begin with an example curriculum from Texas A&M university, with the mobi
 * Download [full set of labs 2019](https://github.com/scuttlerobot/nigeria/blob/main/docs/Labs_MobileRobotics_2019.pdf) with all lessons for learning SCUTTLE
 * Download [full set of labs 2021](https://github.com/scuttlerobot/nigeria/blob/main/docs/Labs_MobileRobotics_2021.pdf) with some improvements, but some omissions of important basics.
 * Download [project template 2020](https://github.com/scuttlerobot/nigeria/blob/main/docs/2020_ProjectExample.pdf) for student projects in undergraduate Mobile Robotics Course.
+* Download [course prerequisites 2019](https://github.com/scuttlerobot/nigeria/blob/main/docs/2019_coursePrerequisites.pdf) with undergraduate engineering data from TAMU.
 
 ## 2025_Fundraiser
 
