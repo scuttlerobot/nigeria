@@ -8,32 +8,44 @@
 </head>
 <body>
   <!-- Docsify app container -->
-  <div id="app">Loading...</div>
+  <div id="app">Loading site content...</div>
 
-  <!-- Docsify script -->
+  <!-- Docsify Configuration -->
+  <script>
+    window.$docsify = {
+      name: 'SCUTTLE Nigeria',
+      repo: 'scuttlerobot/nigeria',
+      loadSidebar: true,
+      loadNavbar: true,
+      themeColor: '#2E8B57',
+      auto2top: true,
+    };
+  </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
-  <!-- Chatbase chatbot script -->
+  <!-- Chatbase Chatbot Embed Script -->
   <script>
     (function(){
       if(!window.chatbase || window.chatbase("getState")!=="initialized"){
-        window.chatbase=(...arguments)=>{
+        window.chatbase=(...args)=>{
           if(!window.chatbase.q){window.chatbase.q=[]}
-          window.chatbase.q.push(arguments)
+          window.chatbase.q.push(args)
         };
         window.chatbase=new Proxy(window.chatbase,{
           get(target,prop){
             if(prop==="q"){return target.q}
             return(...args)=>target(prop,...args)
           }
-        })
+        });
       }
       const onLoad=function(){
         const script=document.createElement("script");
         script.src="https://www.chatbase.co/embed.min.js";
-        script.id="_qQrp5O3Ho39vuuOuEfFq";
-        script.domain="www.chatbase.co";
-        document.body.appendChild(script)
+        script.id="_qQrp5O3Ho39vuuOuEfFq";  // make sure this ID is correct
+        script.setAttribute("chatbotId", "_qQrp5O3Ho39vuuOuEfFq"); // add this for Chatbase
+        script.setAttribute("domain", "www.chatbase.co");
+        script.setAttribute("defer", true);
+        document.body.appendChild(script);
       };
       if(document.readyState==="complete"){onLoad()}
       else{window.addEventListener("load",onLoad)}
