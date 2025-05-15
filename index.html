@@ -7,25 +7,31 @@
   <link rel="icon" href="favicon.png" />
   <meta name="description" content="SCUTTLE Robotics in Nigeria" />
 
-  <!-- Style fix for zoom/layout -->
+  <!-- Base styles to mimic Docsify-This -->
   <style>
-    html, body {
-      margin: 0;
-      padding: 0;
+    body {
       font-family: system-ui, sans-serif;
       font-size: 16px;
       line-height: 1.6;
+      max-width: 860px;
+      margin: auto;
+      padding: 2rem;
+      background: #fff;
+      color: #333;
     }
-    #app {
-      padding: 20px;
+    .app-name {
+      font-size: 1.4rem;
+    }
+    img {
+      max-width: 100%;
+      cursor: zoom-in;
     }
   </style>
 </head>
 <body>
-  <!-- Docsify app container -->
   <div id="app">Loading...</div>
 
-  <!-- Docsify configuration -->
+  <!-- Docsify Configuration -->
   <script>
     window.$docsify = {
       name: 'SCUTTLE_Africa',
@@ -36,22 +42,24 @@
       subMaxLevel: 2,
       auto2top: true,
       themeColor: '#42b983',
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
+      zoomImage: {
+        background: 'rgba(0,0,0,0.6)'
       },
       darklightTheme: {
         defaultTheme: 'dark',
         siteFont : 'PT Sans',
         codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
-        bodyFontSize : '17px',
+        bodyFontSize : '16px',
         dark: {
           background: '#1e1e1e',
+          textColor: '#ccc',
           highlightColor: '#42b983',
           codeBackgroundColor: '#2d2d2d',
           codeTextColor: '#ccc',
         },
         light: {
           background: '#ffffff',
+          textColor: '#333',
           highlightColor: '#42b983',
           codeBackgroundColor: '#f5f5f5',
           codeTextColor: '#333',
@@ -60,11 +68,10 @@
     };
   </script>
 
-  <!-- Docsify script -->
+  <!-- Docsify scripts -->
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-
-  <!-- Dark/Light toggle plugin -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-darklight-theme.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 
   <!-- Chatbase chatbot script -->
   <script>
