@@ -7,10 +7,13 @@
   <link rel="icon" href="favicon.png" />
   <meta name="description" content="SCUTTLE Robotics in Nigeria" />
 
-  <!-- Base styles to mimic Docsify-This -->
+  <!-- Fonts for clean UI -->
+  <link href="https://fonts.googleapis.com/css2?family=PT+Sans&family=Roboto+Mono&display=swap" rel="stylesheet">
+
+  <!-- Base styling -->
   <style>
     body {
-      font-family: system-ui, sans-serif;
+      font-family: 'PT Sans', sans-serif;
       font-size: 16px;
       line-height: 1.6;
       max-width: 860px;
@@ -19,17 +22,35 @@
       background: #fff;
       color: #333;
     }
-    .app-name {
-      font-size: 1.4rem;
-    }
     img {
       max-width: 100%;
       cursor: zoom-in;
     }
+    .sidebar {
+      font-size: 0.95rem;
+    }
+    .scroll-to-top {
+      position: fixed;
+      bottom: 25px;
+      right: 25px;
+      background-color: #42b983;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 16px;
+      display: none;
+      z-index: 1000;
+    }
   </style>
 </head>
 <body>
+  <!-- Docsify app container -->
   <div id="app">Loading...</div>
+
+  <!-- Scroll to Top Button -->
+  <button id="scrollTop" class="scroll-to-top">↑</button>
 
   <!-- Docsify Configuration -->
   <script>
@@ -42,6 +63,7 @@
       subMaxLevel: 2,
       auto2top: true,
       themeColor: '#42b983',
+      search: 'auto',
       zoomImage: {
         background: 'rgba(0,0,0,0.6)'
       },
@@ -68,10 +90,22 @@
     };
   </script>
 
-  <!-- Docsify scripts -->
+  <!-- Docsify Core and Plugins -->
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-darklight-theme.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+
+  <!-- Scroll to Top Script -->
+  <script>
+    const scrollBtn = document.getElementById("scrollTop");
+    window.addEventListener("scroll", function () {
+      scrollBtn.style.display = window.scrollY > 300 ? "block" : "none";
+    });
+    scrollBtn.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  </script>
 
   <!-- Chatbase chatbot script -->
   <script>
@@ -91,7 +125,7 @@
       const onLoad=function(){
         const script=document.createElement("script");
         script.src="https://www.chatbase.co/embed.min.js";
-        script.id="_qQrp5O3Ho39vuuOuEfFq";
+        script.id="_qQrp5O3Ho39vuuOuEfFq";  // Make sure this is your real Chatbase ID
         script.domain="www.chatbase.co";
         document.body.appendChild(script)
       };
