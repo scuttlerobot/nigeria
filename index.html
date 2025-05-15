@@ -7,10 +7,10 @@
   <link rel="icon" href="favicon.png">
 </head>
 <body>
-  <!-- Docsify app container -->
+  <!-- Docsify container -->
   <div id="app">Loading site content...</div>
 
-  <!-- Docsify Configuration -->
+  <!-- Docsify configuration -->
   <script>
     window.$docsify = {
       name: 'SCUTTLE Nigeria',
@@ -23,32 +23,17 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
-  <!-- Chatbase Chatbot Embed Script -->
+  <!-- Chatbase chatbot embed -->
   <script>
-    (function(){
-      if(!window.chatbase || window.chatbase("getState")!=="initialized"){
-        window.chatbase=(...args)=>{
-          if(!window.chatbase.q){window.chatbase.q=[]}
-          window.chatbase.q.push(args)
-        };
-        window.chatbase=new Proxy(window.chatbase,{
-          get(target,prop){
-            if(prop==="q"){return target.q}
-            return(...args)=>target(prop,...args)
-          }
-        });
-      }
-      const onLoad=function(){
-        const script=document.createElement("script");
-        script.src="https://www.chatbase.co/embed.min.js";
-        script.id="_qQrp5O3Ho39vuuOuEfFq";  // make sure this ID is correct
-        script.setAttribute("chatbotId", "_qQrp5O3Ho39vuuOuEfFq"); // add this for Chatbase
-        script.setAttribute("domain", "www.chatbase.co");
-        script.setAttribute("defer", true);
-        document.body.appendChild(script);
-      };
-      if(document.readyState==="complete"){onLoad()}
-      else{window.addEventListener("load",onLoad)}
+    window.chatbaseConfig = {
+      chatbotId: "_qQrp5O3Ho39vuuOuEfFq",
+    };
+
+    (function() {
+      var script = document.createElement("script");
+      script.src = "https://www.chatbase.co/embed.min.js";
+      script.defer = true;
+      document.body.appendChild(script);
     })();
   </script>
 </body>
