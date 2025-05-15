@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SCUTTLE Nigeria</title>
+  <link rel="icon" href="favicon.png">
+</head>
+<body>
+  <!-- Docsify app container -->
+  <div id="app">Loading...</div>
+
+  <!-- Docsify script -->
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <!-- Chatbase chatbot script -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState")!=="initialized"){
+        window.chatbase=(...arguments)=>{
+          if(!window.chatbase.q){window.chatbase.q=[]}
+          window.chatbase.q.push(arguments)
+        };
+        window.chatbase=new Proxy(window.chatbase,{
+          get(target,prop){
+            if(prop==="q"){return target.q}
+            return(...args)=>target(prop,...args)
+          }
+        })
+      }
+      const onLoad=function(){
+        const script=document.createElement("script");
+        script.src="https://www.chatbase.co/embed.min.js";
+        script.id="_qQrp5O3Ho39vuuOuEfFq";
+        script.domain="www.chatbase.co";
+        document.body.appendChild(script)
+      };
+      if(document.readyState==="complete"){onLoad()}
+      else{window.addEventListener("load",onLoad)}
+    })();
+  </script>
+</body>
+</html>
