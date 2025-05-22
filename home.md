@@ -119,6 +119,7 @@ _David & Samuel meeting in Texas with Photo credit to the Astro Robot_
 
 ## External
 _key sources for background information_
+* [Website of SCUTTLE Futo team](https://scuttle-ng.vercel.app) initiated in early 2025, to include updates directly from Dr. Nzebuka's team of engineers. 
 * [Federal University of Technology - Owerri](https://futo.edu.ng/department-of-mechatronic-engineering/) - FUTO has a mechatronics department with capable students & researchers.
  * [Dr. Nzebuka at FUTO](https://futo.edu.ng/engr-dr-g-c-nzebuka/) - link to faculty profile for Dr. Nzebuka
 * [Covenant University](https://covenantuniversity.edu.ng/) - Covenant is a national leader in education, a private university with a strong and stable reputation.
