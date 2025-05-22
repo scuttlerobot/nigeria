@@ -44,7 +44,7 @@ This table to be populated with key contacts globally who are supporting the pro
 
 ## North America
 
-* Philliip McGee is our spearhead for planning the Africa-based activities for the SCUTTLE org since around 2023.
+* Philip McGee is our spearhead for planning the Africa-based activities for the SCUTTLE org since around 2023.
 * David Malawey is dedicating technical efforts, and documenting content to share (such as this web page) to keep the door open for collaborators.
 * Viam is an exciting business partner who has created several software solutions & easy-to-follow tutorials and we are keeping their team up to speed to engage with the Nigeria group whenever appropriate.  A couple of their staff including Sara Gharnit and Nick Hehr have already performed live webinars for our Malaysia based workshops (THANK YOU SO MUCH!) and we hope to connect them again to kick off viam-on-scuttle software lessons soon.
 
@@ -128,5 +128,6 @@ _key sources for background information_
 _links and summarized info for onboarding new team members and for recalling data in more detail._
 * [SCUTTLE Tech Guide](https://qr.scuttlerobot.org/g/12J5i2t3bp4) - our SCUTTLE engineering guide, beginning 2023 and publicly edited.
 * [SCUTTLE Homepage](https://scuttlerobot.org) - the SCUTTLE website
+* [David's Youtube](https://https://youtu.be/H6BFeo9z46w?si=ZsQpJ6WKRSaVEryH) with recent updates about the Nigeria SCUTTLE Lab.
 
 
