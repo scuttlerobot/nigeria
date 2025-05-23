@@ -6,9 +6,11 @@ _latest dynamic link: https://qr.net/scuttleafrica (2025.05.02)_
 # Intro
 SCUTTLE Robotics in Nigeria.  Who is involved? What are we doing?  How can you help?  What is driving our plans?
 
+
+## Community
 >
+> Please see our [GOFUNDME](https://gofund.me/72e9c8e8) - can you afford to make a $5 donation? 😙
 > Join our [DISCORD](discord.gg/Napn9mhd43)
->
 > to chat in realtime with our open community.
 >
 >🙂
