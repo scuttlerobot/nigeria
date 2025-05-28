@@ -29,36 +29,6 @@ _Dr. Nzebuka visits SCUTTLE Texas in 2022_
 In one of our earliest meetings, Dr. Gaius Nzebuka (center of photo) urged us to assist him in bringing this tech to his home university in Owerri.
 
 
-## Nigeria
-
-This table to be populated with key contacts globally who are supporting the project, starting in 2022.
-
-* Dr. Gaius Nzebuka is the key responsible person for the 2024 robotics lab supported by SCUTTLE Robotics organization.  He has direct experience with our Texas learning environment based on his work at Texas A&M, and a mechanical engineering educational background. 
-* Dr. Olalekan Olayinka is our primary contact at Covenant University, also near to Lagos, Nigeria and a key consultant for our planning in African robotics efforts.  Dr. Olalekan is equipped to set up stakeholders in the academic space (that includes Students, Professors, lecturers, and university management) to embrace the learning opportunities in the field of robotics that will be provided by SCUTTLE.
-* Several faculty members at FUTO are colleagues of Dr. Nzebuka who will likely get involved at the new lab there, and I hope to credit them as the year progresses and we can know more details.
-
->
-> 2025 Spring: The lab is being assembled!  FUTO faculty have allocated a space for teaching robotics, and our Nigerian team members are installing solar panels, power storage, furniture & security features for the new lab space.  Robot kits have arrived onsite after a very long shipping period and Dr. Nzebuka & his colleagues plan to teach with the equipment this fall semester.
->
-> Visit the self-built webpage by the FUTO team For [SCUTTLE Nigeria](https://scuttle.ng-vercel.app/project)
->
-
-
-
-## North America
-
-* Philip McGee is our spearhead for planning the Africa-based activities for the SCUTTLE org since around 2023.
-* David Malawey is dedicating technical efforts, and documenting content to share (such as this web page) to keep the door open for collaborators.
-* Viam is an exciting business partner who has created several software solutions & easy-to-follow tutorials and we are keeping their team up to speed to engage with the Nigeria group whenever appropriate.  A couple of their staff including Sara Gharnit and Nick Hehr have already performed live webinars for our Malaysia based workshops (THANK YOU SO MUCH!) and we hope to connect them again to kick off viam-on-scuttle software lessons soon.
-
-## Asia
-* Dr. Norazmi, as always, has been a guiding participant in the Africa plans as his education/business/government experience is a fantastic resource to choose how to make similar progress in Nigeria as we have in Malaysia.
-  
-![img_norazmi2](https://github.com/user-attachments/assets/a12f4ab3-ebc5-41e1-898c-b6a5aeb71994)
-_Dr. Norazmi (left) leading SCUTTLE Asia with Fadullah & Hakimi_
-
-
-
 ## Nigeria Outlook
 
 Why Nigeria? (by David): Our SCUTTLE goals are centered on making the biggest impact, achieving a sustainable ecosystem for STEM learners to help each other, and making tech skills available to everyone.  I see the continent of Africa as the next step to enabling the global community of makers to find help in every time zone around the globe.  My experience in Southeast Asia taught me that students in developing regions are an incredible force in forging new technology.  By late 2023, our Malaysian research teams have outpaced our counterparts in Texas where the designers have more credentials, more funding, bigger campuses and more tools. It's exactly the opposite of what I expected. Perhaps the passion and motivation is the biggest barrier and perhaps the phenomenon of being a little fish in a big pond is an intense drawback for the students in major universities.
