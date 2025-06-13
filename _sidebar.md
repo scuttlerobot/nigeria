@@ -1,5 +1,6 @@
 - [Home](home)
 - [Community](community)
 - [Goals](goals)
+- [Action](action)
 - [Research](research)
 - [Phase-2](phase2)
