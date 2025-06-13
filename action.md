@@ -2,5 +2,5 @@ A note from DM: _Starting 2025.06, I hope we can make an action log with bits an
 
 ## June 2025
 
-![img_extruderScrew](img/img_screw1.jpg)
+![img_extruderScrew](img/action/img_screw1.jpg)
 Today (6/13) I got notified that our designers have finalized their drawings, sent them to the manufacturer, and the manufacturer successfully made this custom component from steel.  It looks great!  Paint comes next for the barrel and it will be on its way from Asia to Nigeria in a couple of days!
