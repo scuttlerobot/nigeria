@@ -22,6 +22,10 @@ SCUTTLE Robotics in Nigeria.  Who is involved? What are we doing?  How can you h
 
  The basic idea is to build the supporting infrastructure for Nigerian students to learn & create with robotics.  The method is to support each other from within our key SCUTTLE labs in the USA, Malaysia, and Nigeria.
 
+**Supporting Faculty**
+As of 2025.10, multiple faculty members from mechatronics engineering degree program got involved to make the lab come together.  The main focus this summer has been to get an extruder fabricated, which will produce filament for the 3D printers in the lab.  Dr. Nzebuka shared this photo including himself, Dr Obichere, Prof Okoronkwo the Mechatronics Engineering HOD, Engr Philip
+![futo faculty team](img/img_team2025.10.jpg)
+
 
 ![dr nzebuka at scuttle texas](img/img_nzebuka_2021.2.jpg)
 _Dr. Nzebuka visits SCUTTLE Texas in 2022_
